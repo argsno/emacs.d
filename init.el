@@ -72,6 +72,8 @@
 (require 'init-fonts)
 (require 'init-mmm)
 
+(require 'init-evil)
+
 (require 'init-editing-utils)
 (require 'init-whitespace)
 
